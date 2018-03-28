@@ -1,0 +1,12 @@
+.list-group{
+    margin: 40px;
+}
+h2{
+    text-align: center;
+    margin: 40px;
+}
+.avlist:hover{
+    cursor: pointer;
+    background-color: lightgrey;
+}
+
